@@ -1,30 +1,28 @@
 # Hi, I'm Samikshya Saud 👋
 ### Data Science Student · Kathmandu, Nepal
+BSc Computer Science & IT student passionate about Data Science, Machine Learning, and AI.
 
-BSc Computer Science & IT student building AI systems
-that solve real-world problems.
-
-🔍 **Actively seeking Data Science / ML / AI internship opportunities**
+🔍 **Actively seeking Data Science / Data Analyst internship opportunities**
 
 ---
 
 ## 🚀 Featured Projects
 
-### ✈️ Qatar Airways Aircraft Systems — LLM Predictive Maintenance
-Fault detection across 5 aircraft systems using fine-tuned
-Llama 3, XGBoost, LSTM and RAG pipeline.
+### 🌬️ AirQI-LLM — Air Quality Analysis & AQI Prediction
+Analyzed real-world US EPA air quality data using Python and ML models to predict AQI and identify pollution trends.
 
-**97.3% accuracy · 38% cost reduction · 3.9× lower false alarm rate**
+**Random Forest · Gradient Boosting · Pandas · Scikit-learn · Matplotlib**
 
-🔗 [View Project](https://github.com/SamikshyaSaud/qatar-airways-aircraft-llm)
+🔗 [View Project](https://github.com/SamikshyaSaud/airqi-llm)
 
 ---
 
-### 🌫️ AirQI-LLM — AI Air Quality Analysis Tool
-RAG + LLM system for AQI prediction and
-natural language insights over real-time data.
+### 🎓 Student Result Management System — MySQL Database
+Designed and implemented a complete relational database system for managing student academic records, grade calculation, and result publication.
 
-🔗 [View Project](https://github.com/SamikshyaSaud/airqi-llm)
+**MySQL · Stored Procedures · CRUD Operations · System Analysis & Design**
+
+🔗 [View Project](https://github.com/SamikshyaSaud/student-result-management-system)
 
 ---
 
@@ -32,14 +30,20 @@ natural language insights over real-time data.
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python · SQL |
-| **ML / Deep Learning** | Scikit-learn · XGBoost · PyTorch · LSTM |
-| **LLM & NLP** | HuggingFace · LangChain · FAISS · RAG · LoRA |
-| **Tools** | Git · Streamlit · FastAPI · AWS |
+| **Languages** | Python · SQL · C · C++ |
+| **Data Science** | Pandas · NumPy · Matplotlib · Scikit-learn |
+| **AI / ML** | Machine Learning · Deep Learning · NLP |
+| **Cloud** | AWS (EC2, S3, RDS) · Azure Databricks |
+| **Tools** | Git · GitHub · Google Colab · MySQL |
+
+---
+
+## 📜 Certifications
+AWS Cloud Practitioner · Google AI · Data Analyst 101 · Big Data 101 · Azure Databricks
 
 ---
 
 ## 📫 Connect
-💼 Open to Data Science internship opportunities
+💼 Open to Data Science / Data Analyst internship opportunities
 
-> *"Building AI systems that create real operational impact."*
+📧 saudsammu8@gmail.com · [LinkedIn](https://www.linkedin.com/in/samikshya-saud-728127285/)
