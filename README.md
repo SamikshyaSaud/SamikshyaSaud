@@ -1,8 +1,6 @@
 # Hi, I'm Samikshya Saud 👋
-### Data Science Student · Kathmandu, Nepal
+### BSc.CSIT · Kathmandu, Nepal
 BSc Computer Science & IT student passionate about Data Science, Machine Learning, and AI.
-
-🔍 **Actively seeking Data Science / Data Analyst internship opportunities**
 
 ---
 
